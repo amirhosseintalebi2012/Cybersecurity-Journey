@@ -13,12 +13,14 @@ I'm especially interested in how AI can be used to solve real-world cybersecurit
 - Blue Team and Ethical Hacking
 - Machine Learning and AI
 
+
 ## My Roadmap
 
 1. Practical Cybersecurity
 2. AI for Cybersecurity
 3. AI Security Engineering
-4. Final Projects
+4. All Projects
+
 
 ## About This Repository
 
