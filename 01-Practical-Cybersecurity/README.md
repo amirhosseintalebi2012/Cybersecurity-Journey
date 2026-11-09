@@ -17,7 +17,6 @@ I'm starting with practical cybersecurity skills and gradually exploring differe
 
 ## What You'll Find Here
 
-- Notes from my studies
 - Exercises and lab experiences
 - Things I've learned along the way
 - Small tools and personal projects
